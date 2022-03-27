@@ -1,3 +1,4 @@
 {
+  "testFiles": "**/*.{feature,features,js}",
   "experimentalStudio": true
 }

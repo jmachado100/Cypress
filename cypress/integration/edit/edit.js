@@ -1,5 +1,5 @@
 import { Given } from "cypress-cucumber-preprocessor/steps";
-const url = 'http://localhost:8081/'
+const url = 'http://localhost:8080/'
     Given('i created a new todo and now i want to edited', () => {
         cy.visit(url)
         cy.get('.dashboard-info__item > .button').click()

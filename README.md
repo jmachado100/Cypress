@@ -40,15 +40,15 @@ This file has got tests that involve the functionality of adding new todo items 
 This file has got tests that involve the functionality of removing exiting todo items to the list 
 
 #
-It was also develop a bundle of BDD/Gherkin-based acceptance tests with support of cucumber library:
+It was also developed a bundle of BDD/Gherkin-based acceptance tests with support of cucumber library:
 
 ## BDD
 
 ### Edit.feature
-This file simulates the functionality of editing a todo that is already created
+This file simulates the functionality of editing a todo element that is already created
 
 ### history.feature
-This file simulates the functionality of seeing the history of todo that were completed our deleted by the user
+This file simulates the functionality of seeing the history of todo elements that were completed, added or deleted by the user
 
 
 
